@@ -1,0 +1,7 @@
+body > img[data-drop] {
+  position: absolute;
+}
+
+body {
+  overflow: hidden;
+}
